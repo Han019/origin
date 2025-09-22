@@ -12,7 +12,7 @@
 
 > 인용문?
 
-'''print("Hello World!")
+'print("Hello World!")'
 
 ----
 
