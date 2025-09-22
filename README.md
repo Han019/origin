@@ -1,5 +1,6 @@
 # Markdown 사용법 익히기
 
+이 프로젝트는 Markdown 사용법을 익히기 위한 테스트 프로젝트입니다.
 
 + **볼드 체**
 + *이텔릭 체*
@@ -11,9 +12,7 @@
 
 > 인용문?
 
-''' Python
-print("Hello World!")
-'''
+'''print("Hello World!")
 
 ----
 
