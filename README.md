@@ -8,11 +8,10 @@
 
 [구글로 이동](https://google.com)
 
-![컴공](https://ce.khu.ac.kr/cmmn/file/imageSrc.do?atchFileId=d0aa088e24b548dc9b931fe2caec875f&fileSn=3)
 
 > 인용문?
 
-'''
+''' Python
 print("Hello World!")
 '''
 
